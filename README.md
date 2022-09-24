@@ -12,6 +12,8 @@ XieBroRAT的前身为DcRat，在DcRat的基础之上，进行流量特征的修�
 
 ## 新增功能
 
+[+]2022-9-24
+
 1.隐藏桌面控制（HVNC）
 
 2.隐藏Powershell
