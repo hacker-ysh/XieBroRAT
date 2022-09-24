@@ -4,7 +4,7 @@
 
 ## 简介
 
-XieBroRAT的前身为DcRat，在DcRat的基础之上，进行流量特征的修改，并且添加了一些有意思的功能，对此我还参考了Quasar、Async、CobaltStrike的工作原理，开放出来的release客户端为DcRat的原版客户端，在此我非常感谢@qwqdanchun 提供的代码以及对我的帮助。 （目前不打算开放二开的XiebroRAT客户端，因此请不要滥用并上传dcrat的客户端）
+XieBroRAT的前身为DcRat，在DcRat的基础之上，进行流量特征的修改，并且添加了一些有意思的功能，对此我还参考了Quasar、Async、NanaCorer、NJrat、CobaltStrike的工作原理，开放出来的release客户端为DcRat的原版客户端，在此我非常感谢@qwqdanchun 提供的代码以及对我的帮助。 （目前不打算开放二开的XiebroRAT客户端，因此请不要滥用并上传dcrat的客户端）
 
 ## 视频链接：
 
